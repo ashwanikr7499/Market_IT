@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "1070377416113",
+    "firebase_url": "https://market-it.firebaseio.com",
+    "project_id": "market-it",
+    "storage_bucket": "market-it.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1070377416113:android:728532a317ebe168",
+        "android_client_info": {
+          "package_name": "boat.golden.marketit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1070377416113-2b5bfhgled53hfr3prgb47rtn8usr5e2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "boat.golden.marketit",
+            "certificate_hash": "e4ae061598a5983dbc498a80d8491f8ce51a3ae2"
+          }
+        },
+        {
+          "client_id": "1070377416113-oo2mcathadceo7bdng03e4snf1kau4og.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "boat.golden.marketit",
+            "certificate_hash": "3f098506f02de2e445249de53cc0ab6a8ba0095c"
+          }
+        },
+        {
+          "client_id": "1070377416113-rvdm4oio6k6p4s1r9un034k26gdic14m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZ4wyLnSaz0jHZ85olHA78_nQxbgFw_Cw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1070377416113-rvdm4oio6k6p4s1r9un034k26gdic14m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
